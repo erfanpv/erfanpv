@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Muhammed Erfan P V</h2>
+  <h2>Hi 👋 I'm Muhammed Erfan P V.</h2>
+  <div id="badges">
+    <a href="https://linkedin.com/in/erfanpv">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    
+  </div>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erfanpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfanpv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/erfanpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erfanpv" height="30" width="40" /></a>
-</p>
 
 
 

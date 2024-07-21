@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2>Hi 👋 I'm Muhammed Erfan P V.</h2>
   <div id="badges">
-     <a href="https://www.linkedin.com/in/salman-k-6736142a5/" target="_blank">
+     <a href="https://linkedin.com/in/erfanpv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=new target="_blank">
@@ -33,5 +33,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanpv&show_icons=true&locale=en&layout=compact" alt="erfanpv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erfanpv&" alt="erfanpv" /></p>
